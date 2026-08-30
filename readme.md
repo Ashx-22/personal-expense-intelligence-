@@ -65,3 +65,6 @@ personal-expense-analysis/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+
+## App
+https://ashx-22-personal-expense-intelligence--app-vl0rag.streamlit.app/
