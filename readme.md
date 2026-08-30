@@ -1,5 +1,5 @@
 # Personal Expense Analysis
-
+ app : https://ashx-22-personal-expense-intelligence--app-vl0rag.streamlit.app/
 ## Overview
 
 A Python-based data analysis project that explores personal
@@ -66,5 +66,4 @@ personal-expense-analysis/
 ├── requirements.txt
 └── .gitignore
 
-## App
-https://ashx-22-personal-expense-intelligence--app-vl0rag.streamlit.app/
+
