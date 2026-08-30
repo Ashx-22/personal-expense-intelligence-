@@ -2,14 +2,25 @@
 
 ## Overview
 
-A Python-based exploratory data analysis project that analyzes
-personal expense transactions to identify spending patterns,
-high-value transactions, spending categories, and time-based
-behavior.
+A Python-based data analysis project that explores personal
+expense transactions to identify spending patterns, major
+expenses, category behavior, and time-based spending trends.
+
+## Objective
+
+The project aims to answer questions such as:
+
+- How much was spent overall?
+- What items are purchased most frequently?
+- Which items account for the highest spending?
+- How does spending differ by category?
+- Which days have the highest spending?
+- What time of day has the highest spending?
+- Are there unusually high-value transactions?
 
 ## Dataset
 
-The dataset contains personal expense transactions recorded
+The dataset contains 145 expense transactions recorded
 during March 2023.
 
 ### Columns
@@ -21,20 +32,15 @@ during March 2023.
 - Time
 - day
 
-## Key Analysis
+## Key Findings
 
-The project analyzes:
-
-- Overall spending
-- Average and median transaction value
-- Most frequently purchased items
-- Highest-spending items
-- Spending by category
-- Spending by day of week
-- Daily spending trends
-- Spending by time of day
-- High-value transactions
-- Data quality and missing values
+- Total spending: ₹4,609
+- Transactions: 145
+- Average transaction: ₹31.79
+- Median transaction: ₹17
+- Largest transaction: ₹500
+- Highest-spending item: Chai with snacks
+- Top 5 items account for approximately 61.7% of total spending
 
 ## Technologies
 
@@ -59,8 +65,3 @@ personal-expense-analysis/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
-
-We'll improve this README later after we have the final visualizations and insights.
-
----
-
